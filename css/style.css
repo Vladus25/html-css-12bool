@@ -1,0 +1,26 @@
+
+/* Riga 1 */
+
+.border-color{
+  background-color: rgb(249, 188, 212);
+  border: 1px solid black;
+  text-align: center;
+}
+
+.border-color-2{
+  background-color: rgb(252, 100, 100);
+  border: 1px solid white;
+  text-align: center;
+}
+
+span{
+  line-height: 200px;
+}
+
+.padding{
+  padding: 5px;
+}
+
+#fix{
+  height: auto;
+}
