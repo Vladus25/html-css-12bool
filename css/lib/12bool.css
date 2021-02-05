@@ -33,7 +33,7 @@
 
 
 /* Versione desktop */
-@media all and (min-width: 993px){
+/* @media all and (min-width: 993px){ */
 
   .col-1 {
     width: calc((100% / 12) * 1);
@@ -136,7 +136,7 @@
     margin-left: calc((100% / 12) * 12);
   }
 
-}
+/* } */
 
 /* Versione tablet */
 @media all and (min-width: 769px) and (max-width: 992px){
